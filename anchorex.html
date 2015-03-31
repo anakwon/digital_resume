@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+
+<head>
+    <style>
+    .sectionDiv {
+        height:100vh;
+    }
+    .text1 {
+        background-color: red;
+    }
+    .text2{
+        background-color: blue;
+    }
+    .text3{
+        background-color: green;
+    }
+    .side_nav {
+        height: 100px;
+        position: fixed;
+        right: 0px;
+        top: 0px;
+        background-color: lavender;
+        padding: 50px;
+        transform: translateX(100%);
+        transition: .5s;
+    }
+    .side_nav a {
+        display: block;
+        margin: 10px;
+    }
+    .slide_handle {
+      left: 0px;
+      transform: translateY(-50%) translateX(-100%);
+      top: 50%;
+      position: absolute;
+      background-color: white;
+      width: 50px;
+
+
+    }
+    .side_nav:hover{
+        transform:translateX(0);
+    }
+    </style>
+    <meta charset="UTF-8">
+    <title>Untitled Document</title>
+</head>
+<body>
+
+<nav class="side_nav">
+    <div class="slide_handle">-<br>-<br>-<br></div>
+    <a href="#1">TEXT 1</a>
+    <a href="#2">TEXT 2</a>
+    <a href="#3">TEXT 3</a>
+    </nav>
+<div class="sectionDiv text1"><a id="1">TEXT1</a></div>
+<div class="sectionDiv text2"><a id="2">TEXT2</a></div>
+<div class="sectionDiv text3"><a id="3">TEXT3</a></div>
+    
+
+
+
+</body>
+</html>
