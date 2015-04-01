@@ -1,0 +1,84 @@
+.full-screen {
+    height: 100vh;
+}
+.aboutpage {
+    background-color:#FFD5E0;
+}
+.techskillpage {
+    background-color: #CCAAFF;
+}
+.experiencepage {
+    background-color: #CCEEDD;
+}
+.contactpage {
+    background-color: #9DC6D8;
+}
+.edupage {
+    background-color: #E18D77
+}
+.title {
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.hi {
+    font-size: 150px;
+    position: relative;
+    float: left;
+}
+
+.main-div {
+    height: 56vh;
+    width: 80vw;
+    border: 1px solid black;
+    text-align: left;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+.abtme_midsection {
+    height: 20vh;
+    width: 60vw;
+    margin: 0 auto;
+    padding: 4%;
+}
+
+.abtme_parag {
+  height: 20vh;
+  width: 46vw;
+  float: left;
+  margin-top: 1.5%;
+  padding-left: 5%;
+}
+
+.experience_section {
+  border: 1px solid purple;
+  height: 50vh;
+  width: 70vw;
+  margin: 0 auto;
+}
+
+.dates {
+  border: 1px solid red;
+  width: 15%;
+  height: 15%;
+  text-align: center;
+  position: relative;
+  float: left;
+}
+.company {
+  border: 1px dashed;
+  width: 30%;
+  float: left;
+}
+
+.description {
+  position: relative;
+  float: left;
+  border: 1px dashed green;
+  height: 70%;
+  width: 85%;
+  padding: 2%;
+}
