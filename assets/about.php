@@ -1,6 +1,4 @@
-<link rel="stylesheet" href="../style.css">
 
-<body class="full-screen aboutpage">
 <div class="main-div">
     <div class="title">About me</div>
         <div class="abtme_midsection">
@@ -12,4 +10,3 @@
     </div>
 
 </div>
-</body>

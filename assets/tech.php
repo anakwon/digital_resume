@@ -1,6 +1,3 @@
-<link rel="stylesheet" href="../style.css">
-
-<body class="full-screen techskillpage">
 
 <div class="main-div">
     <div class="title">Technical Skills</div>
@@ -32,4 +29,3 @@
     
     
  </div>   
-</body>
