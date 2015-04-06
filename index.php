@@ -15,6 +15,7 @@ header
 </header>
     <nav class="side_nav">
         <div class="slide_handle glyphicon glyphicon-list"></div>
+    <a href="#home">Home</a>
     <a href="#about">About</a>
     <a href="#techskills">Tech Skills</a>
     <a href="#experience">Experience</a>
@@ -22,11 +23,17 @@ header
     <a href="#contact">Contact</a>
     </nav>
     <main class="full-screen">
+     
+    <section class="full-screen homepage">
+        <a id="home"></a>
+        <h1>HOME PAGE</h1>
+            <?php include 'assets/home.php';?>
+    </section>
+        
     <section class="full-screen aboutpage">
         <a id="about"></a>
         <h1>ABOUT PAGE</h1>
             <?php include 'assets/about.php';?>
-        
     </section>
         
     <section class="full-screen techskillpage">

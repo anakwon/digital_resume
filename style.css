@@ -1,6 +1,9 @@
 .full-screen {
     height: 100vh;
 }
+.homepage {
+    background-color:#9DC6D8;
+}
 .aboutpage {
     background-color:#FFD5E0;
 }
@@ -16,19 +19,23 @@
 .edupage {
     background-color: #E18D77
 }
+/*
 .title {
     font-size: 25px;
     text-align: center;
     font-weight: bold;
     text-transform: uppercase;
 }
+*/
 
 .hi {
     font-size: 150px;
     position: relative;
     float: left;
+    left: 5%;
 }
 
+/*
 .main-div {
     height: 56vh;
     width: 80vw;
@@ -37,7 +44,16 @@
     margin: 0 auto;
     margin-top: 10%;
 }
+*/
 
+.main-div {
+    
+    border: 1px solid black;
+    height: 50vh;
+    top: 10vw;
+}
+
+/*
 .abtme_midsection {
     height: 20vh;
     width: 60vw;
@@ -52,6 +68,7 @@
   margin-top: 1.5%;
   padding-left: 5%;
 }
+*/
 
 .experience_section {
   height: auto;
@@ -108,4 +125,15 @@
 }
 .side_nav:hover .slide_handle {
     color: white;
+}
+
+
+img {
+    height: 200px;
+}
+
+
+.title {
+    border: 1px solid red;
+    text-align: center;
 }

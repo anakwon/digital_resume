@@ -1,6 +1,6 @@
 
-<div class="main-div">
-    <div class="title">Technical Skills</div>
+<div class="main-div col-md-8 col-md-offset-2">
+    <div class="title col-md-12 lead">Technical Skills</div>
     <table>
         <tr>
         <th>Front End</th>
