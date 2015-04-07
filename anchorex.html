@@ -2,6 +2,8 @@
 <html>
 
 <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script type="text/javascript" src="script.js"></script>
     <style>
     .sectionDiv {
         height:100vh;
@@ -42,6 +44,13 @@
     .side_nav:hover{
         transform:translateX(0);
     }
+    #topleftnav{
+        position: fixed;
+        top: 0px;
+        left: 0px;
+        background:black;
+        color:white;
+    }
     </style>
     
     
@@ -49,36 +58,28 @@
     <meta charset="UTF-8">
     <title>Untitled Document</title>
 </head>
+    
+
 <body>
     
 //side hovering navigation bar
 <nav class="side_nav">
     <div class="slide_handle">-<br>-<br>-<br></div>
-    <a href="#1">TEXT 1</a>
-    <a href="#2">TEXT 2</a>
-    <a href="#3">TEXT 3</a>
+    <a href="#1" id="anchor1" class="anchorLink">TEXT 1</a>
+    <a href="#2" id="anchor2" class="anchorLink">TEXT 2</a>
+    <a href="#3" id="anchor3" class="anchorLink">TEXT 3</a>
     </nav>
     
 //text div which on click will direct and scroll to the page
+<a name="#1" id="anchor1"></a>
 <div class="sectionDiv text1"><a id="1">TEXT1</a></div>
+<a name="#2" id="anchor2"></a>
 <div class="sectionDiv text2"><a id="2">TEXT2</a></div>
+<a name="#3" id="anchor3"></a>
 <div class="sectionDiv text3"><a id="3">TEXT3</a></div>
-    
 
-
-    
-    
-    
-
-    
-    
-    
-
-    
-    
-    
-    
-    
-
+    <nav id="topleftnav">This text is always visible <span>this text is only visible at the top</span></nav>
 </body>
+
+    
 </html>

@@ -1,31 +1,38 @@
 
-<div class="main-div col-md-8 col-md-offset-2">
+<div class="main-div col-md-8 col-md-offset-2 col-sm-12">
     <div class="title col-md-12 lead">Technical Skills</div>
-    <table>
-        <tr>
-        <th>Front End</th>
-        <td>JavaScript</td>
-        <td>CSS3</td>
-        <td>HTML5</td>
-        <td>jQuery</td>
-        </tr>
-        
-        <tr>
-        <th>Back End</th>
-        <td>PHP</td>
-        <td>SQL</td>
-        <td>MySQL</td>
-        </tr>
-        
-        <tr>
-        <th>Dev Tools</th>
-        <td>Git</td>
-        <td>Postman</td>
-        <td>XAMPP</td>
-        <td>Brackets/Sublime</td>
-        </tr>
+<body>
+    <div class="container">
+    <div class="tech_section front container">
+        <p>FRONT END</p>
+        <ul class="list-unstyled">
+        <li>JavaScript</li>
+        <li>CSS3</li>
+        <li>HTML5</li>
+        <li>jQuery</li>
+        </ul>
+    </div>
     
-    </table>
+    <div class="tech_section end container">
+        <p>BACK END</p>
+        <ul class="list-unstyled">
+        <li>PHP</li>
+        <li>SQL</li>
+        <li>MySQL</li>
+        </ul>
+    </div>
+
+    <div class="tech_section devtools container">
+        <p>DEVELOPER TOOLS</p>
+        <ul class="list-unstyled">
+        <li>JavaScript</li>
+        <li>BLAH</li>
+        <li>BLAHBLAH</li>
+        <li>jQuery</li>
+        </ul>
+    </div>
+        </div>
+</body>
     
     
  </div>   

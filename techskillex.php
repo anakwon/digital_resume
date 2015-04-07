@@ -16,7 +16,6 @@
           height: 400px;
           width: 300px ;
           float: left;
-/*            padding: 20px;*/
           position:relative;
         }
 /*

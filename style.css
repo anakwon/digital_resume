@@ -19,14 +19,11 @@
 .edupage {
     background-color: #E18D77
 }
-/*
 .title {
     font-size: 25px;
-    text-align: center;
     font-weight: bold;
     text-transform: uppercase;
 }
-*/
 
 .hi {
     font-size: 150px;
@@ -49,7 +46,7 @@
 .main-div {
     
     border: 1px solid black;
-    height: 50vh;
+    min-height: 50vh;
     top: 10vw;
 }
 
@@ -137,3 +134,23 @@ img {
     border: 1px solid red;
     text-align: center;
 }
+
+.tech_section {
+  margin: 1em;
+  border: 2px solid black;
+  height: 200px;
+  width: 150px ;
+  float: left;
+  position:relative;
+}
+.image {
+    height: 640px;
+    background-image:url(image/rosie_me.jpg);
+    background-repeat:no-repeat;
+    border: 1px solid green;
+    
+}
+ .dlResume {
+    border: 1px dashed #800;
+    font-size: 40px;
+    }

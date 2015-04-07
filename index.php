@@ -4,14 +4,25 @@
     <meta charset="utf-8">
     <title>Personal Resume</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script type="text/javascript" src="script.js"></script>
 </head>   
 
     
 <body>
     <header role="banner">
-header
+    <a href="https://www.github.com/anakwon" target="_blank">    
+        <i class="fa fa-github-alt fa-5x"></i></a>
+    <a href="https://www.linkedin.com/anakwon" target="_blank">  
+        <i class="fa fa-linkedin-square fa-5x"></i>
+    <a href="https://www.facebook.com/blahblahhhhh" target="_blank">  
+        <i class="fa fa-facebook-official fa-5x"></i></a>
+    
+        
+    <a class="dlResume glyphicon glyphicon-download-alt" href="doc/AnaKwon_Tech_2015.pdf" download="AnaKwon_Resume"></a>
+
 </header>
     <nav class="side_nav">
         <div class="slide_handle glyphicon glyphicon-list"></div>
@@ -22,8 +33,8 @@ header
     <a href="#education">Education</a>
     <a href="#contact">Contact</a>
     </nav>
+        
     <main class="full-screen">
-     
     <section class="full-screen homepage">
         <a id="home"></a>
         <h1>HOME PAGE</h1>
@@ -59,13 +70,14 @@ header
         
     <section class="full-screen contactpage">
         <a id="contact"></a>
-        <h1>Contact PAGE</h1>
+        <h1>Contact Me</h1>
             <?php include 'assets/contact.php';?>
         
     </section>
         
     
     </main>
+
 
 
     

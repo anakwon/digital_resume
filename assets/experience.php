@@ -1,6 +1,6 @@
 
-    <div class="main-div">
-    <div class="title">Experience</div>
+    <div class="main-div col-md-8 col-md-offset-2 col-sm-12">
+    <div class="title col-md-12 lead">Experience</div>
         <div class="experience_section">
         <div class="dates">
         Jan 2015 – Present    
