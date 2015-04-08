@@ -2,7 +2,7 @@
 <div class="main-div col-md-8 col-md-offset-2 col-sm-12">
     <div class="title col-md-12 lead">Technical Skills</div>
 <body>
-    <div class="container">
+    <div class="container col-md-8 col-md-offset-2">
     <div class="tech_section front container">
         <p>FRONT END</p>
         <ul class="list-unstyled">

@@ -1,5 +1,5 @@
 
-<div class="main-div">
+<div class="main-div col-md-8 col-md-offset-2 col-sm-12">
     <div class="title">Education</div>
     <div class="edu_section">
         <div class="date">
@@ -28,4 +28,4 @@
         </div>
     
     </div>
-    </div>
+</div>

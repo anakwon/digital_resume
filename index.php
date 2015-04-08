@@ -20,12 +20,13 @@
     <a href="https://www.facebook.com/blahblahhhhh" target="_blank">  
         <i class="fa fa-facebook-official fa-5x"></i></a>
     
+    <div class="Resume_btn">    
+    <a class="dlResume" href="doc/AnaKwon_Tech_2015.pdf" download="AnaKwon_Resume">Download Resume</a>
+    </div>
+    
         
-    <a class="dlResume glyphicon glyphicon-download-alt" href="doc/AnaKwon_Tech_2015.pdf" download="AnaKwon_Resume"></a>
-
 </header>
     <nav class="side_nav">
-        <div class="slide_handle glyphicon glyphicon-list"></div>
     <a href="#home">Home</a>
     <a href="#about">About</a>
     <a href="#techskills">Tech Skills</a>
@@ -37,51 +38,39 @@
     <main class="full-screen">
     <section class="full-screen homepage">
         <a id="home"></a>
-        <h1>HOME PAGE</h1>
             <?php include 'assets/home.php';?>
     </section>
         
     <section class="full-screen aboutpage">
         <a id="about"></a>
-        <h1>ABOUT PAGE</h1>
             <?php include 'assets/about.php';?>
     </section>
         
     <section class="full-screen techskillpage">
         <a id="techskills"></a>
-        <h1>Tech Skill PAGE</h1>
             <?php include 'assets/tech.php';?>
         
     </section>
         
     <section class="full-screen experiencepage">
         <a id="experience"></a>
-        <h1>Experience PAGE</h1>
             <?php include 'assets/experience.php';?>
         
     </section>
         
     <section class="full-screen edupage">
         <a id="education"></a>
-        <h1>Education PAGE</h1>
             <?php include 'assets/education.php';?>
         
     </section>
         
     <section class="full-screen contactpage">
         <a id="contact"></a>
-        <h1>Contact Me</h1>
             <?php include 'assets/contact.php';?>
         
     </section>
         
     
     </main>
-
-
-
-    
-    <footer>THIS IS FOOTER </footer>
-        
 </body>
 </html>
