@@ -5,8 +5,6 @@ $(document).ready(function(){
         }, 500);
         return false;
     });
-    
-    
     $(window).scroll(function(){
         console.log('scrolled to ',$(document).scrollTop());
         if($(document).scrollTop()!=0)
@@ -18,4 +16,13 @@ $(document).ready(function(){
             $("#topleftnav span").show();
         }
     });
+    
+    var trackOutboundLink = function(url) 
+        {
+            ga('send', 'event', 'outbound', 'click', 'url', 
+            {'hitCallback' : function () {
+                document.location = url;
+         }
+    });
+}
 });

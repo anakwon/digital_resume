@@ -13,7 +13,8 @@
     
 <body>
     <header role="banner">
-    <a href="https://www.github.com/anakwon" target="_blank">    
+    <a href="https://www.github.com/anakwon" target="_blank" onclick="trackOutboundLink('http://www.github.com/anakwon'); return false">
+        
         <i class="fa fa-github-alt fa-5x"></i></a>
     <a href="https://www.linkedin.com/anakwon" target="_blank">  
         <i class="fa fa-linkedin-square fa-5x"></i>
