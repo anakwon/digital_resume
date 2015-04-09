@@ -1,12 +1,12 @@
 <div class="main-div col-md-8 col-md-offset-2 col-sm-12">
-    <div class="title col-md-12 lead">Experience</div>
+    <div class="title col-md-12 lead"></div>
     
     <div class="experience_section col-md-12">
         
-        <div class="dates col-md-4">
+        <div class="dates col-md-2">
             Jan 2015 – Present
         </div>
-        <div class="company col-md-6 lead">
+        <div class="company lead">
             <strong>LearningFuze Web Development</strong>
         </div>
         <div class="description col-md-5 col-md-offset-2">
@@ -17,12 +17,11 @@
 
         </div>
 
-        <div class="dates col-md-4">
+        <div class="dates col-md-2">
             June '14 – Sept 2014
         </div>
-        <div class="company col-md-6 lead">
-            <strong>Innocean Worldwide : Gangnam </br>
-            Kia World Cup Online Campaign Coordinator</br></strong>
+        <div class="company lead">
+            <strong>Innocean Worldwide Kia World Cup Online Campaign Coordinator</strong>
         </div>
         <div class="description col-md-5 col-md-offset-2">
             - Develop marketing campaigns for all worldwide Kia World cup websites and mobiles contents. </br>

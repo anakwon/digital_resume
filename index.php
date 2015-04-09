@@ -13,17 +13,10 @@
     
 <body>
     <header role="banner">
-    <a href="https://www.github.com/anakwon" target="_blank" onclick="trackOutboundLink('http://www.github.com/anakwon'); return false">
         
-        <i class="fa fa-github-alt fa-5x"></i></a>
-    <a href="https://www.linkedin.com/anakwon" target="_blank">  
-        <i class="fa fa-linkedin-square fa-5x"></i>
-    <a href="https://www.facebook.com/blahblahhhhh" target="_blank">  
-        <i class="fa fa-facebook-official fa-5x"></i></a>
-    
-    <div class="Resume_btn">    
-    <a class="dlResume" href="doc/AnaKwon_Tech_2015.pdf" download="AnaKwon_Resume">Download Resume</a>
-    </div>
+<!--    <div class="Resume_btn">-->
+    <a class="dlResume fa fa-download fa-5x" href="doc/AnaKwon_Tech_2015.pdf" download="AnaKwon_Resume"> Resume</a></i>
+<!--    </div>-->
     
         
 </header>

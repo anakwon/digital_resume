@@ -161,7 +161,8 @@ img {
     
 }
  .dlResume {
-  font-size: 22px;
+  font-size: 50px; 
+  color: pink;
     }
 
 
@@ -170,6 +171,7 @@ form.contactform {
   text-align: center;
 }
 
+/*
 .Resume_btn {
   background-color: orange;
   border: 1px solid orange;
@@ -180,7 +182,34 @@ form.contactform {
   position: fixed;
   text-transform: capitalize;
   -webkit-transform: rotate(-90deg);
+    text-decoration: none;
 }
+*/
 .edu_section {
     text-align:center;
+}
+
+.socialLinks {
+    color: #8C8C8C;
+    letter-spacing: 20px;
+    text-decoration: none;
+}
+.socialLinks:hover {
+    color: #AEC6CF;
+}
+
+.circle {
+    border:1px solid black;
+    border-radius: 50%;
+}
+
+.socialLinks {
+    position: relative;
+    display: inline; 
+    text-align: center;
+}
+
+ a:hover {
+    color: #FFFFFF;
+    text-decoration: none;
 }
