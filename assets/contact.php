@@ -5,22 +5,22 @@
 
     <div class="form-group">
         <label for="contact_form" class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 control-label">Name</label>
-        <div class="col-md-8  col-md-offset-2 col-sm-8 col-sm-offset-2">
+        <div class="col-md-4 col-md-offset-4 col-sm-8 col-sm-offset-2">
             <input type="email" class="form-control" id="contact_form" placeholder="Name">
         </div>
     </div>
     
     <div class="form-group">
         <label for="inputPassword3" class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 control-label">Email</label>
-        <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-8 col-sm-offset-2">
+        <div class="col-md-4 col-md-offset-4 col-sm-8 col-sm-8 col-sm-offset-2">
             <input type="email" class="form-control" id="contact_form" placeholder="Email">
         </div>
     </div>
     
     <div class="form-group">
             <label for="contact_form" class="col-md-8 col-md-offset-2 col-sm-8 col-sm-8 col-sm-offset-2 control-label">Message</label>
-        <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-            <textarea class="form-control" rows="3" placeholder="Message"></textarea>
+        <div class="col-md-4 col-md-offset-4 col-sm-8 col-sm-offset-2">
+            <textarea class="form-control" rows="3" placeholder="Message"></textarea></br>
         </div>
     </div>
     
