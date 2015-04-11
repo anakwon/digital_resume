@@ -15,7 +15,7 @@
     <header role="banner">
         
 <!--    <div class="Resume_btn">-->
-    <a class="dlResume fa fa-download fa-5x" href="doc/AnaKwon_Tech_2015.pdf" download="AnaKwon_Resume"> Resume</a></i>
+    <a class="dlResume fa fa-download fa-5x" href="doc/AnaKwon_Tech_2015.pdf" download="AnaKwon_Resume.pdf"> Resume</a></i>
 <!--    </div>-->
     
         

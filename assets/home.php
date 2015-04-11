@@ -7,9 +7,7 @@
         </a>
         <a href="https://www.linkedin.com/anakwon" target="_blank">
             <i class="socialLinks fa fa-linkedin-square fa-5x"></i>
-        <a href="https://www.facebook.com/blahblahhhhh" target="_blank">
-            <i class="socialLinks fa fa-facebook-official fa-5x"></i>
-            </a>    
+  
         <a href="www.google.com/anakwon" target="_blank">
             <i class="socialLinks fa fa-google-plus-square fa-5x"></i>
             </a>
