@@ -1,10 +1,14 @@
 <div class="row">
 <div class="main-div col-md-8 col-md-offset-2">
     <div class="title col-md-12 lead">Contact Me</div>
+    <div class="info"
+        Ana Kwon </br>
+        Irvine, CA 92620 </br>
+        949.812.8877 </br>
+    </div>
 
-    Ana Kwon </br>
-    
-
+</div>
+</div>
 
 
 
@@ -54,4 +58,4 @@
     </div>
 </form>
     </div>
-</div> --> -->
+</div> --> 
