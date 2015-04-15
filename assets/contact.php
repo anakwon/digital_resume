@@ -1,6 +1,18 @@
 <div class="row">
 <div class="main-div col-md-8 col-md-offset-2">
     <div class="title col-md-12 lead">Contact Me</div>
+
+    Ana Kwon </br>
+    
+
+
+
+
+<!--  CONTACT FORM UNDER CONSTRUCTION
+
+<div class="row">
+<div class="main-div col-md-8 col-md-offset-2">
+    <div class="title col-md-12 lead">Contact Me</div>
 <form class="contactform">
 
     <div class="form-group">
@@ -24,7 +36,7 @@
         </div>
     </div>
     
-<!--
+
     <div class="form-group">
         <div class="col-sm-offset-2 col-sm-10">
             <div class="checkbox">
@@ -34,7 +46,7 @@
             </div>
         </div>
     </div>
--->
+
     <div class="form-group">
         <div class="col-md-4 col-md-offset-4">
             <button type="submit" class="btn btn-default">Send Message</button>
@@ -42,4 +54,4 @@
     </div>
 </form>
     </div>
-</div>
+</div> --> -->

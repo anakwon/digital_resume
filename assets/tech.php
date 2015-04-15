@@ -3,16 +3,20 @@
     <div class="title col-md-12 lead">Technical Skills</div>
 <body>
     <div class="container col-md-10 col-md-offset-2">
+    
     <div class="tech_section front container">
         <div class="tech_name">
             FRONT END
         </div>
         
         <ul class="list-unstyled">
+
             <li>JavaScript</li>
             <li>CSS3</li>
             <li>HTML5</li>
             <li>jQuery</li>
+            <li>AJAX</li>
+            <li>Bootstrap</li>
         </ul>
     </div>
     
@@ -32,10 +36,10 @@
             DEV TOOLS
         </div>
         <ul class="list-unstyled">
-            <li>JavaScript</li>
-            <li>BLAH</li>
-            <li>BLAHBLAH</li>
-            <li>jQuery</li>
+            <li>Git</li>
+            <li>Postman</li>
+            <li>Sublime</li>
+            <li>Brackets</li>
         </ul>
     </div>
 
@@ -44,10 +48,10 @@
             Design
         </div>
         <ul class="list-unstyled">
-            <li>JavaScript</li>
-            <li>BLAH</li>
-            <li>BLAHBLAH</li>
-            <li>jQuery</li>
+            <li>Photoshop</li>
+            <li>Illustrator</li>
+            <li>Adobe Acrobat</li>
+            <li></li>
         </ul>
     </div>
     </div>

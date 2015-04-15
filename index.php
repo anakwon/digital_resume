@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Personal Resume</title>
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57x57.png" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="style.css">
@@ -55,7 +56,6 @@
     <section class="full-screen edupage">
         <a id="education"></a>
             <?php include 'assets/education.php';?>
-        
     </section>
         
     <section class="full-screen contactpage">
