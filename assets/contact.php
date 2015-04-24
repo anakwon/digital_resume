@@ -4,7 +4,7 @@
     <div class="info"
         Ana Kwon </br>
         Irvine, CA 92620 </br>
-        949.812.8877 </br>
+        <!-- 949.812.8877</br> -->
     </div>
 
 </div>
