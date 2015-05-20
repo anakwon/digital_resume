@@ -3,6 +3,7 @@
     <div class="title col-md-12 lead">Contact Me</div>
     <div class="info"
         Ana Kwon </br>
+        anakwon@gmail.com<br>
         Irvine, CA 92620 </br>
         <!-- 949.812.8877</br> -->
     </div>
