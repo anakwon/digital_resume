@@ -9,9 +9,11 @@
         <i class="fa fa-quote-left fa-3x pull-left fa-border"></i>
         My name is Ana Kwon. <br>
         -Born in Argentina.<br>
-        -Owns a beautiful girl maltese named Rosie.<br>
-        -Loves sunny California.<br>
+        -Dog person<br>
+        -Loves traveling<br>
+        -Loves going to the beach<br>
         -Art background, enjoys going to museum, art fairs, galleries.<br>
-        -Favorite TV shows: Friends, How I Met Your Mother, Grey's Anatomy, Sherlock, Glee and many more... <br>       
+        -Favorite TV shows: Friends, How I Met Your Mother, Grey's Anatomy, Sherlock<br>       
+        -Favorite Movies: 500 Days of Summer, Titanic, Guardians of Galaxy, UP, Toy Story3<br>
 </div>
 </div>

@@ -5,14 +5,14 @@
         <a href="https://www.github.com/anakwon" target="_blank" onclick="trackOutboundLink('http://www.github.com/anakwon'); return false">
             <i class="socialLinks fa fa-github-alt fa-5x"></i>
         </a>
-        <a href="https://www.linkedin.com/anakwon" target="_blank">
+        <a href="https://www.linkedin.com/in/anakwon" target="_blank" onclick="trackOutboundLink('http://www.linkedin.com/in/anakwon'); return false">
             <i class="socialLinks fa fa-linkedin-square fa-5x"></i>
   
         <a href="www.google.com/anakwon" target="_blank">
-            <i class="socialLinks fa fa-google-plus-square fa-5x"></i>
+            <i class="socialLinks fa fa-envelope fa-5x"></i>
             </a>
-        <a href="www.twitter.com/anakwon13" target="_blank">
-            <i class="socialLinks fa fa-twitter fa-5x"></i>
+        <a class="dlResume" href="doc/AnaKwon_Tech_2015.pdf" download="AnaKwon_Resume.pdf">Resume
+            <i class="fa fa-download"></a></i>
         </a>
 
         </div>

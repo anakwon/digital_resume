@@ -54,6 +54,24 @@
             <li></li>
         </ul>
     </div>
+
+        <div class="tech_section devtools container">
+        <div class="tech_name">
+            Dev Portfolio
+        </div>
+        <ul class="list-unstyled">
+            <li>Project 1</li>
+        </ul>
+    </div>
+
+        <div class="tech_section devtools container">
+        <div class="tech_name">
+            Design PF
+        </div>
+        <ul class="list-unstyled">
+            <li>Project 2</li>
+        </ul>
+    </div>
     </div>
 </body>
     
