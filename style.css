@@ -2,8 +2,22 @@
     background-color:#FFFBDB;
 }
 
+
 .full-screen {
     height: 100vh;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+header  { 
+  margin: 30px;
+  font-size: 20px;
+}
+
+body {
+ background-color:#FFFBDB;
 }
 
 /*
@@ -142,7 +156,7 @@ img {
 }
  .dlResume {
   font-size: 25px; 
-  color: black;
+  /*color: black;*/
     }
 
 /*

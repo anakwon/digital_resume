@@ -1,3 +1,5 @@
+
+
 <div class="main-div col-md-8 col-md-offset-2 col-sm-12">
     <div class="title col-md-12 lead"></div>
     <div class="image col-md-12">
@@ -11,8 +13,8 @@
         <a href="www.google.com/anakwon" target="_blank">
             <i class="socialLinks fa fa-envelope fa-5x"></i>
             </a>
-        <a class="dlResume" href="doc/AnaKwon_Tech_2015.pdf" download="AnaKwon_Resume.pdf">Resume
-            <i class="fa fa-download"></a></i>
+        <a href="doc/AnaKwon_Resume.pdf" download="AnaKwon_Resume.pdf">
+            <i class="socialLinks fa fa-download fa-5x"></a></i>
         </a>
 
         </div>
