@@ -59,9 +59,9 @@
         <div class="tech_name">
             Dev Portfolio
         </div>
-        <ul class="list-unstyled">
-            <li>Project 1</li>
-        </ul>
+        <!-- <ul class="list-unstyled">
+            <li><img src="../image/tictactoe.jpg" height="30" width="50"></li>
+        </ul> -->
     </div>
 
         <div class="tech_section devtools container">

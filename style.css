@@ -148,7 +148,7 @@ img {
   position:relative;
 }
 .image {
-    height: 640px;
+    height: 480px;
     background-image:url(image/rosie_me.jpg);
     background-repeat:no-repeat;
     background-position: center;
@@ -187,6 +187,10 @@ form.contactform {
     color: #8C8C8C;
     letter-spacing: 20px;
     text-decoration: none;
+    position: relative;
+    display: inline; 
+    text-align: center;
+    background-color: transparent;
 }
 .socialLinks:hover {
     color: #AEC6CF;
@@ -197,11 +201,6 @@ form.contactform {
     border-radius: 50%;
 }
 
-.socialLinks {
-    position: relative;
-    display: inline; 
-    text-align: center;
-}
 
 /* a:hover {
     color: #FFFFFF;
